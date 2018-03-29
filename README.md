@@ -1,4 +1,5 @@
 # Java Projects Repository #
+This repository is for projects that I create in the Java Programming language.
 
 ## GameEngineTutorial ##
 
